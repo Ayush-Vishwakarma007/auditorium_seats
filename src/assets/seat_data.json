@@ -1,0 +1,2293 @@
+{
+  "data": [
+    {
+      "id": "64ae81140ea1cf52d9a523e1",
+      "details": null,
+      "seatType": null,
+      "color": null,
+      "eventId": "64b0db41c639f002c7eff117",
+      "name": "VVIP",
+      "rows": 4,
+      "columns": 25,
+      "allowSeatSelection": true,
+      "rowList": [
+        {
+          "seatId": "jiW7g7",
+          "name": "A",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "A1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "A2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "A3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "A4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "A5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "A6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "A7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "A8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "A9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "A10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "A11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "A12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "A13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "A14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "A15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "A16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "A17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "A18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "A19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "A20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "A21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "A22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        },
+        {
+          "seatId": "C2ztSS",
+          "name": "B",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "B1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "B2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "B3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "B4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "B5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "B6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "B7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "B8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "B9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "B10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "B11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "B12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "B13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "B14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "B15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "B16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "B17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "B18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "B19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "B20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "B21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "B22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        },
+        {
+          "seatId": "FBpOjG",
+          "name": "C",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "C1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "C2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "C3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "C4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "C5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "C6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "C7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "C8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "C9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "C10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "C11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "C12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "C13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "C14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "C15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "C16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "C17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "C18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "C19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "C20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "C21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "C22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        },
+        {
+          "seatId": "l4Dksc",
+          "name": "D",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "D1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "D2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "D3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "D4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "D5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "D6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "D7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "D8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "D9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "D10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "D11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "D12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "D13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "D14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "D15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "D16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "D17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "D18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "D19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "D20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "D21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "D22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64ae81f70ea1cf52d9a523e2",
+      "details": null,
+      "seatType": null,
+      "color": null,
+      "eventId": "64b0db41c639f002c7eff117",
+      "name": "GOLD",
+      "rows": 4,
+      "columns": 25,
+      "allowSeatSelection": true,
+      "rowList": [
+        {
+          "seatId": "jNYaDN",
+          "name": "E",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "E1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "E2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "E3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "E4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "E5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "E6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "E7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "E8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "E9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "E10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "E11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "E12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "E13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "E14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "E15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "E16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "E17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "E18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "E19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "E20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "E21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "E22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        },
+        {
+          "seatId": "SZvhN6",
+          "name": "F",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "F1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "F2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "F3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "F4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "F5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "F6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "F7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "F8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "F9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "F10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "F11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "F12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "F13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "F14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "F15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "F16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "F17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "F18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "F19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "F20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "F21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "F22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        },
+        {
+          "seatId": "CJIkJn",
+          "name": "G",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "G1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "G2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "G3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "G4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "G5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "G6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "G7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "G8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "G9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "G10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "G11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "G12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "G13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "G14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "G15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "G16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "G17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "G18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "G19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "G20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "G21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "G22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        },
+        {
+          "seatId": "Iaa68e",
+          "name": "H",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "H1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "H2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "H3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "H4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "H5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "H6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "H7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "H8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "H9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "H10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "H11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "H12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "H13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "H14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "H15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "H16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "H17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "H18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "H19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "H20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "H21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "H22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64ae839c0ea1cf52d9a523e3",
+      "details": null,
+      "seatType": null,
+      "color": null,
+      "eventId": "64b0db41c639f002c7eff117",
+      "name": "SILVER",
+      "rows": 2,
+      "columns": 25,
+      "allowSeatSelection": true,
+      "rowList": [
+        {
+          "seatId": "Fefa6p",
+          "name": "I",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "I1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "I2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "I3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "I4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "I5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "I6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "I7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "I8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "I9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "I10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "I11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "I12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "I13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "I14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "I15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "I16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "I17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "I18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "I19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "I20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "I21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "I22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        },
+        {
+          "seatId": "hidPmP",
+          "name": "J",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "J1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "J2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "J3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "J4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "J5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "J6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "J7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "J8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "J9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "J10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "J11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "J12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "J13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "J14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "J15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "J16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "J17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "J18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "J19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "J20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "J21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "J22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64ae86220ea1cf52d9a523e7",
+      "details": null,
+      "seatType": null,
+      "color": null,
+      "eventId": "64b0db41c639f002c7eff117",
+      "name": "BRONZE",
+      "rows": 2,
+      "columns": 25,
+      "allowSeatSelection": true,
+      "rowList": [
+        {
+          "seatId": "4bIMS9",
+          "name": "K",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "K1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "K2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "K3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "K4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "K5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "K6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "K7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "K8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "K9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "K10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "K11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "K12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "K13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "K14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "K15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "K16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "K17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "K18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "K19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "K20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "K21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "K22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        },
+        {
+          "seatId": "N7YbBR",
+          "name": "L",
+          "start": 1,
+          "end": 25,
+          "totalSeats": 25,
+          "bookSeats": 0,
+          "totalAllocated": 0,
+          "seatList": [
+            {
+              "index": 1,
+              "name": "L1",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 2,
+              "name": "L2",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 3,
+              "name": "L3",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 4,
+              "name": "L4",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 5,
+              "name": "L5",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 6,
+              "name": "L6",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 7,
+              "name": "L7",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 8,
+              "name": "L8",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 9,
+              "name": "L9",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 10,
+              "name": "L10",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 11,
+              "name": "L11",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 12,
+              "name": "L12",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 13,
+              "name": "L13",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 14,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 15,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 16,
+              "name": null,
+              "seatStatus": "BLOCKED",
+              "colorCode": "#FF0000",
+              "handicapped": false
+            },
+            {
+              "index": 17,
+              "name": "L14",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 18,
+              "name": "L15",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 19,
+              "name": "L16",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 20,
+              "name": "L17",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 21,
+              "name": "L18",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 22,
+              "name": "L19",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 23,
+              "name": "L20",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 24,
+              "name": "L21",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            },
+            {
+              "index": 25,
+              "name": "L22",
+              "seatStatus": "AVAILABLE",
+              "colorCode": "#ffffff",
+              "handicapped": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "status": {
+    "code": "OK",
+    "status": "OK",
+    "description": "Success"
+  }
+}

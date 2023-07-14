@@ -1,0 +1,23 @@
+<div class="seat-selection">
+  <h2>Select Your Seats</h2>
+  <div class="seat-map">
+    <div class="row" *ngFor="let row of rows">
+      <div class="seat" *ngFor="let seat of row.seats"
+        [ngClass]="{'selected': seat.selected, 'reserved': seat.reserved, 'booked':seat.booked}"
+        (click)="selectSeat(seat)">
+        <span class="seat-number">{{ row.name }}{{ seat.number }}</span>
+        <div *ngIf="seat.reserved" class="tooltip-reserved ">Reserved</div>
+        <div *ngIf="seat.booked" class="tooltip-booked ">Booked</div>
+        <!-- <div *ngIf="!seat.selected && !seat.reserved" class="tooltip">Booked</div> -->
+      </div>
+    </div>
+  </div>
+  <div class="selected-seats">
+    <h3>Selected Seats</h3>
+    <ul>
+      <li *ngFor="let seat of selectedSeats">
+        Seat {{ seat.row }}{{ seat.number }}
+      </li>
+    </ul>
+  </div>
+</div>
