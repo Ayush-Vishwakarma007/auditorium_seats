@@ -1,16 +1,14 @@
-<div class="seat-selection">
+<!-- <div class="seat-selection">
   <h2>Select Your Seats</h2>
   <div class="seat-map">
-    <div class="row" *ngFor="let row of rows">
-      <div class="seat" *ngFor="let seat of row.seats"
-        [ngClass]="{'selected': seat.selected, 'reserved': seat.reserved, 'booked':seat.booked}"
+      <div class="seat" *ngFor="let seat of seatLists"
+        [ngClass]="{'selected': seat.seatStatus === 'SELECTED', 'reserved': seat.seatStatus === 'RESERVED', 'booked':seat.seatStatus === 'BOOKED', 'handicap':seat.seatStatus === 'HANDICAP'}"
         (click)="selectSeat(seat)">
-        <span class="seat-number">{{ row.name }}{{ seat.number }}</span>
+        <span class="seat-number">{{seat.name}}</span>
         <div *ngIf="seat.reserved" class="tooltip-reserved ">Reserved</div>
         <div *ngIf="seat.booked" class="tooltip-booked ">Booked</div>
-        <!-- <div *ngIf="!seat.selected && !seat.reserved" class="tooltip">Booked</div> -->
+        <div *ngIf="seat.handicap" class="tooltip-booked ">Handicap</div>
       </div>
-    </div>
   </div>
   <div class="selected-seats">
     <h3>Selected Seats</h3>
@@ -20,4 +18,38 @@
       </li>
     </ul>
   </div>
+</div> -->
+
+
+<div class="seat-selection">
+  <h2>Select Your Seats</h2>
+  <div class="seat-map">
+    <div class="row" *ngFor="let row of rowLists">
+      <div
+        class="seat"
+        *ngFor="let seat of row.seatList"
+        [ngClass]="{
+          'selected': seat.selected,
+          'reserved': seat.seatStatus === 'RESERVED',
+          'booked': seat.seatStatus === 'BOOKED',
+          'handicap': seat.seatStatus === 'HANDICAP',
+          'available': seat.seatStatus === 'AVAILABLE',
+          'blocked': seat.seatStatus === 'BLOCKED'
+        }"
+        (click)="selectSeat(seat)"
+      >
+        <span class="seat-number">{{ seat.name }}</span>
+        <div *ngIf="seat.seatStatus === 'RESERVED'" class="tooltip-reserved">Reserved</div>
+        <div *ngIf="seat.seatStatus === 'BOOKED'" class="tooltip-booked">Booked</div>
+        <div *ngIf="seat.seatStatus === 'HANDICAP'" class="tooltip-handicap">Handicap</div>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="selected-seats">
+    <h3>Selected Seats</h3>
+    <ul>
+      <li *ngFor="let seat of selectedSeats">Seat {{ seat.name }}</li>
+    </ul>
+  </div> -->
 </div>
+

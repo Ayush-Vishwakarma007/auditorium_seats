@@ -117,11 +117,15 @@
 // }
 
 /* auditorium-seats.component.scss */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+
 $booked-color: #ff5f5f;
 $primary-color: #f7b731;
 $secondary-color: #3dc1d3;
-$highlight-color: #32a852; // Updated to green color
-$seat-size: 30px;
+$highlight-color: #32a852;
+$handicap-color: #ddd;
+$transparent-color: #dddddd00;
+$seat-size: 35px;
 
 .seat-selection {
   display: flex;
@@ -165,8 +169,8 @@ $seat-size: 30px;
         }
 
         &.selected {
-          background-color: $primary-color;
-          transform: scale(1.1);
+          background-color: $primary-color !important ;
+          transform: scale(1.1) !important;
         }
 
         &.reserved {
@@ -203,9 +207,51 @@ $seat-size: 30px;
           }
         }
 
+        &.handicap {
+          background-color: $handicap-color;
+          color: #555;
+
+          .seat-number {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            &::before {
+              content: "\f193"; // Handicap icon from Font Awesome
+              font-family: "Font Awesome 5 Free";
+              font-weight: 900;
+              font-size: 15px;
+            }
+          }
+        }
+
+        &.available {
+          background-color: $highlight-color;
+          cursor: pointer;
+
+          .tooltip-available {
+            visibility: hidden;
+            opacity: 0;
+          }
+
+          &:hover {
+            .tooltip-available {
+              visibility: visible;
+              opacity: 1;
+            }
+          }
+        }
+
+        &.blocked{
+          background-color: $transparent-color;
+          opacity: 0;
+          cursor: default;
+        }
+
         .tooltip-reserved {
           position: absolute;
-          bottom: 100%; /* Change top to bottom */
+          bottom: 100%;
           left: 50%;
           transform: translateX(-50%);
           background-color: rgba(0, 0, 0, 0.8);
