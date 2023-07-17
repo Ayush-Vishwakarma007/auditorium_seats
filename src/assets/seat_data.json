@@ -23,28 +23,28 @@
             {
               "index": 1,
               "name": "A1",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "HANDICAP",
               "colorCode": "#ffffff",
-              "handicapped": false
+              "handicapped": true
             },
             {
               "index": 2,
               "name": "A2",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "HANDICAP",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 3,
               "name": "A3",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "HANDICAP",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 4,
               "name": "A4",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "HANDICAP",
               "colorCode": "#ffffff",
               "handicapped": false
             },
@@ -444,42 +444,42 @@
             {
               "index": 8,
               "name": "C8",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 9,
               "name": "C9",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 10,
               "name": "C10",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 11,
               "name": "C11",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 12,
               "name": "C12",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 13,
               "name": "C13",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
@@ -630,42 +630,42 @@
             {
               "index": 8,
               "name": "D8",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 9,
               "name": "D9",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 10,
               "name": "D10",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 11,
               "name": "D11",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 12,
               "name": "D12",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 13,
               "name": "D13",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "BOOKED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
@@ -1222,21 +1222,21 @@
             {
               "index": 11,
               "name": "G11",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "RESERVED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 12,
               "name": "G12",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "RESERVED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 13,
               "name": "G13",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "RESERVED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
@@ -1264,21 +1264,21 @@
             {
               "index": 17,
               "name": "G14",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "RESERVED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 18,
               "name": "G15",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "RESERVED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 19,
               "name": "G16",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "RESERVED",
               "colorCode": "#ffffff",
               "handicapped": false
             },
@@ -2108,28 +2108,28 @@
             {
               "index": 1,
               "name": "L1",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "HANDICAP",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 2,
               "name": "L2",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "HANDICAP",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 3,
               "name": "L3",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "HANDICAP",
               "colorCode": "#ffffff",
               "handicapped": false
             },
             {
               "index": 4,
               "name": "L4",
-              "seatStatus": "AVAILABLE",
+              "seatStatus": "HANDICAP",
               "colorCode": "#ffffff",
               "handicapped": false
             },

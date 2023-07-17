@@ -136,7 +136,7 @@ $seat-size: 35px;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 32px;
     margin-bottom: 20px;
-    color: $primary-color;
+    color: black;
   }
 
   .seat-map {
@@ -218,7 +218,7 @@ $seat-size: 35px;
             justify-content: center;
 
             &::before {
-              content: "\f193"; // Handicap icon from Font Awesome
+              content: "\f193";
               font-family: "Font Awesome 5 Free";
               font-weight: 900;
               font-size: 15px;

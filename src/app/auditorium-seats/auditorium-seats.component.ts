@@ -22,20 +22,22 @@ interface Row {
   styleUrls: ['./auditorium-seats.component.scss']
 })
 export class AuditoriumSeatsComponent implements OnInit {
-  constructor(private http: HttpClient){}
-  seatLists: any[]=[]
-  rowLists: any[]=[]
+  constructor(private http: HttpClient) { }
+  seatLists: any[] = []
+  rowLists: any[] = []
   selectedSeats: Seat[] = [];
+  categoryData: any[] = [];
 
   ngOnInit(): void {
     this.getDataFromJSONFile().subscribe((response: any) => {
-      console.log(response['data']);
-      response['data'].forEach((data:any) => {
-        data['rowList'].forEach((rowList:any) => {
+      this.categoryData = response['data']
+      response['data'].forEach((data: any) => {
+        data['rowList'].forEach((rowList: any) => {
           this.rowLists.push(rowList);
         });
       });
-      console.log("Seat List: ", this.rowLists)
+      console.log("Row List: ", this.rowLists);
+      console.log("Seat List: ", this.rowLists);
     });
   }
 
