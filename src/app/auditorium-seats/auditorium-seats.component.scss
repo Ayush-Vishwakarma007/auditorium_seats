@@ -1,122 +1,3 @@
-// $primary-color: #ff5f5f;
-// $secondary-color: #3dc1d3;
-// $highlight-color: #f7b731;
-// $seat-size: 40px;
-
-// .seat-selection {
-//   display: flex;
-//   flex-direction: column;
-//   align-items: center;
-
-//   h2 {
-//     font-family: 'Helvetica Neue', sans-serif;
-//     font-size: 32px;
-//     margin-bottom: 20px;
-//     color: $primary-color;
-//   }
-
-//   .seat-map {
-//     .row {
-//       display: flex;
-//       justify-content: center;
-//       align-items: center;
-//       margin-bottom: 10px;
-
-//       .seat {
-//         display: flex;
-//         justify-content: center;
-//         align-items: center;
-//         background-color: $highlight-color;
-//         color: #fff;
-//         width: $seat-size;
-//         height: $seat-size;
-//         margin: 0 5px;
-//         cursor: pointer;
-//         font-weight: bold;
-//         font-family: 'Helvetica Neue', sans-serif;
-//         font-size: 14px;
-//         border-radius: 4px;
-//         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-//         transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
-
-//         .seat-number {
-//           margin-top: 2px;
-//         }
-
-//         &.selected {
-//           background-color: $primary-color;
-//           transform: scale(1.1);
-//         }
-
-//         &.reserved {
-//           background-color: $secondary-color;
-//           cursor: not-allowed;
-
-//           .tooltip {
-//             visibility: hidden;
-//           }
-
-//           &:hover {
-//             .tooltip {
-//               visibility: visible;
-//               opacity: 1;
-//             }
-//           }
-//         }
-
-//         .tooltip {
-//           position: absolute;
-//           top: 100%;
-//           left: 50%;
-//           transform: translateX(-50%);
-//           background-color: rgba(0, 0, 0, 0.8);
-//           color: #fff;
-//           padding: 5px 10px;
-//           border-radius: 4px;
-//           font-size: 12px;
-//           white-space: nowrap;
-//           visibility: hidden;
-//           opacity: 0;
-//           transition: opacity 0.3s ease-in-out;
-
-//           &::after {
-//             content: "";
-//             position: absolute;
-//             top: -8px;
-//             left: 50%;
-//             transform: translateX(-50%) rotate(45deg);
-//             width: 8px;
-//             height: 8px;
-//             background-color: rgba(0, 0, 0, 0.8);
-//           }
-//         }
-//       }
-//     }
-//   }
-
-//   .selected-seats {
-//     h3 {
-//       font-family: 'Helvetica Neue', sans-serif;
-//       font-size: 24px;
-//       color: $primary-color;
-//       margin-bottom: 10px;
-//     }
-
-//     ul {
-//       list-style: none;
-//       padding: 0;
-
-//       li {
-//         margin-bottom: 5px;
-//         font-family: 'Helvetica Neue', sans-serif;
-//         font-size: 18px;
-//         color: #555;
-//       }
-//     }
-//   }
-// }
-
-/* auditorium-seats.component.scss */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
 
 $booked-color: #ff5f5f;
@@ -126,6 +7,8 @@ $highlight-color: #32a852;
 $handicap-color: #ddd;
 $transparent-color: #dddddd00;
 $seat-size: 35px;
+$mobile-breakpoint: 768px;
+
 
 .seat-selection {
   display: flex;
@@ -216,9 +99,7 @@ $seat-size: 35px;
             display: flex;
             align-items: center;
             justify-content: center;
-
             &::before {
-              content: "\f193";
               font-family: "Font Awesome 5 Free";
               font-weight: 900;
               font-size: 15px;
@@ -326,5 +207,160 @@ $seat-size: 35px;
       }
     }
   }
+
+  .legend {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-right: 20px;
+
+      .seat {
+        position: relative;
+        width: 20px;
+        height: 20px;
+        margin-right: 5px;
+        border-radius: 4px;
+
+        i {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          color: #555;
+          font-size: 12px;
+        }
+      }
+
+      span {
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 16px;
+      }
+    }
+
+    .booked {
+      background-color: $booked-color;
+    }
+
+    .reserved {
+      background-color: $secondary-color;
+    }
+    .available {
+      background-color: $highlight-color;
+    }
+
+    .handicap {
+      background-color: $handicap-color;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      i {
+        color: #fff;
+      }
+    }
+  }
+
+  // .stage {
+  //   display: flex;
+  //   justify-content: center;
+  //   align-items: center;
+  //   height: 300px;
+  //   background-color: #f7f7f7;
+  // }
+
+  .stage-seats {
+    width: 600px;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    .stage-screen {
+      font-size: 35px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      width: 90%;
+      height: 80%;
+      background-color: #5a5a5a;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    }
+  }
+
+  .category-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 0px solid #ccc;
+    // background-color: #f0f0f0;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    font-weight: bold;
+  }
+
+  .category {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #333;
+    margin: 0;
+  }
+
+
+
+
+
+
+
+
+  @media (max-width: $mobile-breakpoint) {
+    .legend {
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      margin-top: 10px;
+
+      .legend-item {
+        margin-right: 0;
+        margin-bottom: 10px;
+      }
+    }
+
+    .seat-map {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+      grid-gap: 5px;
+      justify-items: center;
+
+      .row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 10px;
+      }
+
+      .seat {
+        width: 40px;
+        height: 40px;
+        margin: 5px;
+        // Mobile seat styles
+      }
+    }
+  }
 }
+
+
+
+
 

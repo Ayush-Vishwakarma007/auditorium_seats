@@ -32,37 +32,16 @@ export class AuditoriumSeatsComponent implements OnInit {
     this.getDataFromJSONFile().subscribe((response: any) => {
       this.categoryData = response['data']
       response['data'].forEach((data: any) => {
+        // this.categoryData.push(data['name'])
         data['rowList'].forEach((rowList: any) => {
           this.rowLists.push(rowList);
         });
       });
+      console.log("Category name: ", this.categoryData)
       console.log("Row List: ", this.rowLists);
       console.log("Seat List: ", this.rowLists);
     });
   }
-
-  // rows: Row[] = [
-  //   {
-  //     name: 'A',
-  //     seats: [
-  //       { row: 'A', number: 1, selected: false, reserved: false, booked: false, handicap: false },
-  //       { row: 'A', number: 2, selected: false, reserved: true, booked: false, handicap: false },
-  //       { row: 'A', number: 3, selected: false, reserved: true, booked: true, handicap: true },
-  //       // ... add more seat objects for row A
-  //     ]
-  //   },
-  //   {
-  //     name: 'B',
-  //     seats: [
-  //       { row: 'B', number: 1, selected: false, reserved: false, booked: true, handicap: false },
-  //       { row: 'B', number: 2, selected: false, reserved: false, booked: false, handicap: true },
-  //       { row: 'B', number: 3, selected: false, reserved: false, booked: true, handicap: false },
-  //       // ... add more seat objects for row B
-  //     ]
-  //   },
-  //   // ... add more row objects
-  // ];
-
   selectSeat(seat: any) {
     if (seat.seatStatus === 'AVAILABLE') {
       seat.selected = !seat.selected;
@@ -78,19 +57,8 @@ export class AuditoriumSeatsComponent implements OnInit {
     }
   }
 
-  // selectSeat(seat: any) {
-  //   if (seat.seatStatus === 'AVAILABLE') {
-  //     seat.selected = !seat.selected;
-  //     if (seat.selected) {
-  //       this.selectedSeats.push(seat)
-  //     } else {
-  //     }
-  //   }
-  // }
-
-
   getDataFromJSONFile() {
-    return this.http.get('../../assets/seat_data.json');
+    return this.http.get('../../assets/atoz_seat_data_new.json');
   }
 
 
